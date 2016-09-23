@@ -5,15 +5,15 @@ gems: 		  [jekyll-paginate]
 permalink:        pretty
 
 # Setup
-title:            Hyde
-tagline:          'A Jekyll theme'
-description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+title:            George's blog
+tagline:          'random thoughts'
+description:      'Thoughts about what I read and what I currently work with.'
 url:              http://blog.georgebejan.com
 baseurl:          /
 
 author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
+  name:           'George Bejan'
+  url:            http://georgebejan.com
 
 paginate:         5
 

@@ -5,7 +5,7 @@ date:   2017-03-02 08:43:33 +0300
 categories: TIL
 ---
 
-On the last couple of days we had to test our application with a slow internet connection.
+On the last couple of days we had to test our application with a slow internet connection. 
 At first, I had no idea how to do that, but then I found out that you can do that pretty easy in Chrome.
 
 Go to `Developer Console` -> `Network` tab.

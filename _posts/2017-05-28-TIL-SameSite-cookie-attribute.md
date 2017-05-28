@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "TIL: Alternative to CSRF defense: SameSite cookies"
+title:  "Alternative to CSRF defense: SameSite cookies"
 date:   2017-05-28 18:50:33 +0300
 categories: TIL
 ---
